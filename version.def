@@ -23,4 +23,7 @@
 #define     ASHRAIT_VER_MINOR          4
 #define     ASHRAIT_VER_DEBUG          2
 
+#define     ASHRAIT_VER_DEB          4
+77
+
 #endif /* VERSION_DEF_ */
