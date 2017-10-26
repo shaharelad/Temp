@@ -1,0 +1,26 @@
+/****************************************************************************
+ *                                                                          *
+ * FILE NAME:   VERSION.IN                                                  *
+ *                                                                          *
+ * MODULE NAME: ASHRAIT                                                     *
+ *                                                                          *
+ * PROGRAMMER:  Oren Sokoler                                                *
+ *                                                                          *
+ * DESCRIPTION: Version definition file                                     *
+ *                                                                          *
+ * REVISION:    11/01/2016		                                            *
+ *                                                                          *
+ ****************************************************************************/
+
+#ifndef VERSION_DEF_
+#define VERSION_DEF_
+
+          /*==========================================*
+           *           D E F I N I T I O N S          *
+           *==========================================*/
+
+#define     ASHRAIT_VER_MAJOR          1
+#define     ASHRAIT_VER_MINOR          4
+#define     ASHRAIT_VER_DEBUG          2
+
+#endif /* VERSION_DEF_ */
